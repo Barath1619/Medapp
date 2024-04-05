@@ -1,0 +1,26 @@
+export default {
+    //primary: "#3E4C94",
+    secondary: "#22263E",
+    primary:"#7ED957",
+    white:"#fff",
+    white1:"ffffff",
+    black:"#000",
+    grey: "#888",
+    blue:"#000F66",
+    hotpink:"hotpink",
+    primaryblue:"#6c88ff",
+    primartbluelight:"#8c94bf",
+    blue2:"#0164ff",
+    lightgreen:"#F4FFF0",
+    default:"#F2F2F2",
+    grey2:"#CCC",
+    grey3:'#e9e9eb',
+    oceanblue:"#0164ff",
+    tomato:"#ffbfbe",
+    red:"#EA3C53",
+    lightgreen:"#a5ffb4",
+    green:"#49e549",
+    yellow:"#ffc915",
+    nblue:"#223d61"
+
+}
